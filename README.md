@@ -61,7 +61,6 @@ We used different models like Multinomial Naive Bayes, K-Nearest Neighbors, Deci
 * [sklearn](https://scikit-learn.org/)
 * [imblearn](https://imbalanced-learn.org/)
 * [nltk](https://www.nltk.org/)
-* [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
